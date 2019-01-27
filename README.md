@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-<img src="https://github.com/alfredldong/picture/blob/master/mypicture.jpg" width = "240" height = "320" align=center />
+<img src="https://github.com/alfredldong/picture/blob/master/mypicture.jpg" width = "240" height = "320" alt="图片名称" align=center />
 
-![](https://github.com/alfredldong/picture/blob/master/elementperiodictable.jpg)
+![image](https://github.com/alfredldong/picture/blob/master/mypicture.jpg)
 
 ### Markdown
 
