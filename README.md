@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
 <p align="center">
     <img src="https://github.com/alfredldong/picture/blob/master/mypicture.jpg?raw=true" alt="Sample"  width="240" height="320">
     <p align="center">
         <em>我的照片</em>
     </p>
 </p>
+
 ## About me
 
 PhD candidate, School of Physics, Huazhong University of Science and Technology
