@@ -5,38 +5,22 @@
         <em>我的照片</em>
     </p>
 </p>
+## About me
 
-![image](https://github.com/alfredldong/picture/blob/master/mypicture.jpg?raw=true)
+PhD candidate, School of Physics, Huazhong University of Science and Technology
 
-### Markdown
+## Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Machine learning in computational materials
 
-```markdown
-Syntax highlighted code block
+2. Quantum transport and ultrafast dynamics
 
-# Header 1
-## Header 2
-### Header 3
+3. Topological phoxonics, electronics
 
-- Bulleted
-- List
+## Contact Information
 
-1. Numbered
-2. List
+School of Physics, Huazhong University of Science and Technology, Wuhan 430074, China. 
 
-**Bold** and _Italic_ and `Code` text
+Email：a.l.dong@qq.com
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alfredldong/alfredldong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-[Link](https://alfredldong.github.io/model.html)
+Address：Room C109, Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, 1037 Luoyu Road, Wuhan, China, 430074
