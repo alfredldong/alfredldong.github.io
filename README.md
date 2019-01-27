@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![](https://github.com/alfredldong/picture/blob/master/mypicture.jpg){:height="50%" width="50%"}
+<img src="https://github.com/alfredldong/picture/blob/master/mypicture.jpg" width = "240" height = "320" align=center />
 
 ### Markdown
 
