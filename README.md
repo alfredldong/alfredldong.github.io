@@ -1,7 +1,8 @@
 ## Welcome to GitHub Pages
 
 <img src="https://github.com/alfredldong/picture/blob/master/mypicture.jpg" width = "240" height = "320" align=center />
-![Image](https://github.com/alfredldong/picture/blob/master/mypicture.jpg)
+
+![](https://github.com/alfredldong/picture/blob/master/mypicture.jpg)
 
 ### Markdown
 
