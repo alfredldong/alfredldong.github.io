@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
 
-<img src="https://github.com/alfredldong/picture/blob/master/mypicture.jpg?raw=true" width = "240" height = "320" alt="图片名称" align=center />
-
-![image](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs42254-018-0011-5/MediaObjects/42254_2018_11_Fig1_HTML.png)
 ![image](https://github.com/alfredldong/picture/blob/master/mypicture.jpg?raw=true)
 
 ### Markdown
