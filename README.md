@@ -16,9 +16,7 @@ PhD candidate, School of Physics, Huazhong University of Science and Technology
 
 3. Topological phoxonics, electronics
 
-## My Blogs
-
-see [My Blogs](myblogs.md)
+## [My Blogs](myblog.md)
 
 ## Contact Information
 
