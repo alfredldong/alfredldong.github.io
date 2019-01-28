@@ -18,7 +18,7 @@ PhD candidate, School of Physics, Huazhong University of Science and Technology
 
 ## My Blogs
 
-see [My Blogs](myblogs.html)
+see [My Blogs](myblogs.md)
 
 ## Contact Information
 
