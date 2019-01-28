@@ -2,17 +2,12 @@
 
 ## Science
 
-formula1: $$n==x$$
+formula1: 
 
-formula2: $$n!=x$$
+$$H\Psi=E\Psi$$
 
-formula3: (m==y)
+formula2: $\Psi=e^{i\phi}\psi$
 
-formula4: [m!=y]
-
-formula5: \(k==z\)
-
-formula6: \[k!=z\]
 ## Technology
 
 ## Society
