@@ -16,6 +16,10 @@ PhD candidate, School of Physics, Huazhong University of Science and Technology
 
 3. Topological phoxonics, electronics
 
+## Skills
+
+C/C++, Fortran, Python, MATLAB, shell
+
 ## [My Blogs](myblog.md)
 
 ## Contact Information
