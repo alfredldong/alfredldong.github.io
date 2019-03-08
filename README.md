@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/alfredldong/picture/blob/master/mypicture.jpg?raw=true" alt="Sample"  width="240" height="320">
+    <img src="https://github.com/alfredldong/Picture/blob/master/MyPicture.jpg?raw=true" alt="Sample"  width="240" height="320">
     <p align="center">
     </p>
 </p>
@@ -20,7 +20,7 @@ PhD candidate, School of Physics, Huazhong University of Science and Technology
 
 C/C++, Fortran, Python, MATLAB, shell
 
-## [My Blogs](myblog.md)
+## [My Blogs](MyBlog.md)
 
 ## Contact Information
 
