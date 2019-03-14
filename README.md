@@ -3,6 +3,7 @@
     <p align="center">
     </p>
 </p>
+<center>Curriculum Vitae</center>
 
 ## About me
 
