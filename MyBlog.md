@@ -1,6 +1,6 @@
 ## Science
 
-[AI in Material Science](https://github.com/alfredldong/alfredldong.github.io/blob/master/MyBlog/AI%2BMater.md)
+[AI in Material Science](AI+Mater.md)
 
 ## Technology
 
