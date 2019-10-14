@@ -24,8 +24,6 @@
 
 [Web of Science](http://www.isiknowledge.com/)
 
-[Scopus](https://www.scopus.com/)
-
 [Letpub](http://www.letpub.com.cn/)
 
 [知网](http://www.cnki.net/)
