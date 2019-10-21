@@ -6,7 +6,7 @@
 
 ## Society
 
-[贫穷的本质](5Poor Economics.md)
+[Poor Economics](5Poor Economics.md)
 
 ## Humanity
 
