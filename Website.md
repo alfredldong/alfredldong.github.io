@@ -2,6 +2,8 @@
 
 [我的博客](https://alfredldong.github.io/)
 
+[坚果云](https://www.jianguoyun.com/)
+
 [华科邮箱](https://mail.hust.edu.cn/coremail/)
 
 [linkedin](https://www.LinkedIn.com/)
@@ -28,6 +30,8 @@
 
 [知网](http://www.cnki.net/)
 
+[知网国际](http://new.oversea.cnki.net/)
+
 [万方](http://www.wanfangdata.com.cn/)
 
 [arXiv](https://arxiv.org/)
@@ -37,8 +41,6 @@
 [Science](https://www.sciencemag.org/)
 
 [APS](http://journals.aps.org/)
-
-[ACS](https://pubs.acs.org/)
 
 [Springer](http://link.springer.com/search/page/8?facet-language=%22En%22&facet-content-type=%22Book%22&showAll=falsehttps://hudbt.hust.edu.cn/index.php)
 
