@@ -1,7 +1,5 @@
 ## Science
 
-[SBE](https://alfredldong.github.io/MyArticle/SBE.html)
-
 ## Technology
 
 ## Society
