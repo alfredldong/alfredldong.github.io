@@ -54,6 +54,10 @@
 
 [Stack Overflow](http://stackoverflow.com/)
 
+[Stack Exchange](http://stackexchange.com/)
+
+[Physics Overflow](https://www.physicsoverflow.org/)
+
 [GitHub](https://github.com/)
 
 [在线工具 —— 开源中国社区](http://tool.oschina.net/)
@@ -97,10 +101,6 @@
 [知乎](https://www.zhihu.com/)
 
 [白云黄鹤](http://byhh.hust.edu.cn/)
-
-[Stack Exchange](http://stackexchange.com/)
-
-[Physics Overflow](https://www.physicsoverflow.org/)
 
 **资料库**
 
