@@ -56,8 +56,6 @@
 
 [GitHub](https://github.com/)
 
-[开源中国](https://www.oschina.net/)
-
 [在线工具 —— 开源中国社区](http://tool.oschina.net/)
 
 [在线工具lu](https://tool.lu/)
@@ -65,8 +63,6 @@
 [LeetCode](https://leetcode.com/)
 
 [Mathematica](http://www.wolframalpha.com/)
-
-[TensorFlow](https://www.tensorflow.org/)
 
 [Matplotlib](http://matplotlib.org/)
 
