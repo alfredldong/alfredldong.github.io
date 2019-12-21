@@ -7,6 +7,7 @@
 ## Society
 
 [《贫穷的本质》评论](5PoorEconomics.md)
+[《贫穷的本质》评论2](https://github.com/alfredldong/MyArticle/blob/master/5PoorEconomics.html)
 
 ## Humanity
 
