@@ -12,4 +12,6 @@
 
 [李吟经典语录大集合](https://alfredldong.github.io/MyArticle/LiYinQuote.html)
 
-[My HomePage](Website.md)
+[My Website](Website.md)
+
+[My Journal](Journal.md)
