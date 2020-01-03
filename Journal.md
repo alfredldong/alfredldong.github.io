@@ -6,6 +6,8 @@
 
 [APS](http://journals.aps.org/)
 
+[ACS](https://pubs.acs.org/)
+
 [IOP](https://iopscience.iop.org/journalList)
 
 [AIP](https://aip.scitation.org/)
