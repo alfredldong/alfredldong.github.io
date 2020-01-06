@@ -8,6 +8,8 @@
 
 [武士道精神](https://alfredldong.github.io/MyArticle/Samurai.html)
 
+[“天坑专业”高强度劳动的马克思主义解读](https://alfredldong.github.io/MyArticle/tiankengmajormarxism.html)
+
 ## Humanity
 
 [李吟经典语录大集合](https://alfredldong.github.io/MyArticle/LiYinQuote.html)
