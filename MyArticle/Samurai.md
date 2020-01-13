@@ -1,7 +1,5 @@
 ## 武士道精神
 
-<center><font face="Times New Roman" color=red size=10>Manual</font></center>
-
 武士者，须一生悬命于武士道。所谓武士道，即死之觉悟也。
 
 名，忠，勇，义，礼，诚，克，仁。
