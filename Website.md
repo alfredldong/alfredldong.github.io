@@ -1,7 +1,3 @@
-<center><font face="Times New Roman" color=red size=10>Website</font></center>
-
----
-
 **个人**
 
 [我的博客](https://alfredldong.github.io/)
