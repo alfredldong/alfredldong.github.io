@@ -4,6 +4,8 @@
     </p>
 </p>
 
+![My Blogs](https://github.com/alfredldong/Picture/blob/master/IDPicture.jpg)
+
 ## About me
 
 PhD candidate, School of Physics, Huazhong University of Science and Technology
