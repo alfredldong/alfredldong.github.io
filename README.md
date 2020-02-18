@@ -4,7 +4,7 @@
     </p>
 </p>
 
-![My Blogs](https://github.com/alfredldong/Picture/blob/master/IDPicture.jpg)
+![My Blogs](https://github.com/alfredldong/Picture/blob/master/IDPicture.jpg?raw=true)
 
 ## About me
 
