@@ -10,15 +10,13 @@ PhD candidate, School of Physics, Huazhong University of Science and Technology
 
 ## Research Interests
 
-1. Machine learning in computational materials
+1. Phonon Transport
 
-2. Quantum transport and ultrafast dynamics
-
-3. Topological phoxonics, electronics
+2. Solid High Harmonic Generation
 
 ## Skills
 
-C/C++, Fortran, Python, MATLAB, shell
+C, Fortran, Python, MATLAB, Mathematica
 
 ## [My Blogs](MyBlog.md)
 
