@@ -10,9 +10,11 @@ PhD candidate, School of Physics, Huazhong University of Science and Technology
 
 ## Research Interests
 
-1. Phonon Transport
-
-2. Solid High Harmonic Generation
+1. PtC、PnC：FEM
+    Nanophonon Transport：DFT、NEGF
+    Solid HHG
+2. The Application of ML in QMBT
+3. TQFT
 
 ## Skills
 
