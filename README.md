@@ -38,34 +38,34 @@ Phonon Transport, Solid HHG
 ## Skills
 
 Programing Language
->C、 Fortran、 MATLAB、 Python、 Mathematica
+>C, Fortran, MATLAB, Python, Mathematica
 
 OS
->Windows、 Linux
+>Windows, Linux
 
 Development 
->VS Code、 VIM、 Xshell/Xftp、 Git、 Anaconda
+>VS Code, VIM, Xshell/Xftp, Git, Anaconda
 
-Numerical algorithm
->machine learning, finite difference method, lattice Boltzmann method, Monte Carlo simulation, orthogonal basis group expansion, etc
+Numerical Algorithm
+>machine learning, finite difference method, lattice Boltzmann method, Monte Carlo simulation, orthogonal basis set expansion, etc
 
-Research software
->COMSOL、 CASTEP、 VASP、 Octopus、 LAMMPS
+Research Software
+>COMSOL, CASTEP, VASP, Octopus, LAMMPS
 
-Office software
->Office、 LaTeX、 Markdown
+Office Software
+>Office, LaTeX, Markdown
 
 ## Qualification
 
 National College English Test CET-4, CET-6
 
-National Computer Rank Examination Grade II-C language, III-database
+National Computer Rank Examination Grade II-C language, Grade III-database
 
-Teacher certificate senior middle school
+Teacher Certificate of Senior Middle School
 
-Putonghua level test level: Grade II, Grade A
+Mandarin Level Test Grade IIA
 
-C1 driver's license
+C1 Driver's License
 
 ## Contact Information
 
