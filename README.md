@@ -12,22 +12,21 @@
 
 ## About me
 
-PhD candidate, School of Physics, Huazhong University of Science and Technology (HUST)
+Lecturer, School of Science, Jiangsu University of Science and Technology (JUST)
 
 ## Research Interests
 
-Phonon Transport, Solid HHG
+Perovskites and Phonon Transport
+
+Quantum Many Body Theory and Machine Learning
 
 ## Education Background
 
-2016.09-Present
+2016.09-2020.08
 >**PhD**, major of condensed matter physics, School of Physics, HUST, Wuhan
 
 2015.09-2016.06
 >**master**, major of optics, School of Physics, HUST, Wuhan
-
-2012.01-2012.06 
->graduation thesis, National Astronomical Observatories, Chinese Academy of Sciences, Beijing
 
 2008.09-2012.06 
 >**bachelor**, major of physics, College of Physics, Hebei Normal University, Shijiazhuang
@@ -38,7 +37,13 @@ Phonon Transport, Solid HHG
 ## Skills
 
 Programing Language
->C, Fortran, MATLAB, Python, Mathematica
+>Mathematica、MATLAB、Python、Julia
+
+Numerical Algorithm
+>machine learning, first principles, molecular dynamics, Monte Carlo simulation, finite difference method, lattice Boltzmann method, etc
+
+Research Software
+>CASTEP, VASP, LAMMPS, COMSOL
 
 OS
 >Windows, Linux
@@ -46,11 +51,6 @@ OS
 Development 
 >VS Code, VIM, Xshell/Xftp, Git, Anaconda
 
-Numerical Algorithm
->machine learning, finite difference method, lattice Boltzmann method, Monte Carlo simulation, orthogonal basis set expansion, etc
-
-Research Software
->COMSOL, CASTEP, VASP, Octopus, LAMMPS
 
 Office Software
 >Office, LaTeX, Markdown
