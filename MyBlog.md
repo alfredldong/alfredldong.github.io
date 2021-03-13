@@ -3,6 +3,7 @@
 ## Technology
 
 ## Society
+[为什么佛学是对的](https://alfredldong.github.io/MyArticle/BuddhismIsTrue.html)
 
 [《贫穷的本质》评论](https://alfredldong.github.io/MyArticle/PoorEconomics.html)
 
