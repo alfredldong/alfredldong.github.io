@@ -3,6 +3,9 @@
 ## Technology
 
 ## Society
+
+[女性的受虐倾向](https://alfredldong.github.io/MyArticle/FemaleMasochism.html)
+
 [为什么佛学是对的](https://alfredldong.github.io/MyArticle/BuddhismIsTrue.html)
 
 [《贫穷的本质》评论](https://alfredldong.github.io/MyArticle/PoorEconomics.html)
