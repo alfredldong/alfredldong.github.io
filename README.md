@@ -16,7 +16,7 @@ Lecturer, School of Science, Jiangsu University of Science and Technology (JUST)
 
 ## Research Interests
 
-Perovskites and Phonon Transport
+Phonon Transport of Perovskites 
 
 Quantum Many Body Theory and Machine Learning
 
@@ -32,44 +32,22 @@ Quantum Many Body Theory and Machine Learning
 >**bachelor**, major of physics, College of Physics, Hebei Normal University, Shijiazhuang
 
 **Major Courses**
->advanced mathematics, linear algebra, probability theory and mathematical statistics, mathematical physics methods, solid state physics, advanced quantum mechanics, advanced electrodynamics, nonlinear optics, introduction to nano devices
+>solid state theory
 
 ## Skills
 
-Programing Language
+Programing
 >Mathematica、MATLAB、Python、Julia
 
-Numerical Algorithm
->machine learning, first principles, molecular dynamics, Monte Carlo simulation, finite difference method, lattice Boltzmann method, etc
+Algorithm
+>first principles, molecular dynamics, Monte Carlo, machine learning, etc
 
-Research Software
+Software
 >CASTEP, VASP, LAMMPS, COMSOL
-
-OS
->Windows, Linux
-
-Development 
->VS Code, VIM, Xshell/Xftp, Git, Anaconda
-
-
-Office Software
->Office, LaTeX, Markdown
-
-## Qualification
-
-National College English Test CET-4, CET-6
-
-National Computer Rank Examination Grade II-C language, Grade III-database
-
-Teacher Certificate of Senior Middle School
-
-Mandarin Level Test Grade IIA
-
-C1 Driver's License
 
 ## Contact Information
 
-Email: dongliyuan@hust.edu.cn, a.l.dong@qq.com
+Email: dongliyuan@just.edu.cn, a.l.dong@qq.com
 
 Phone: 15927120901
 
