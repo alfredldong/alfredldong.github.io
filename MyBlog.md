@@ -6,6 +6,8 @@
 
 [美国总统谥号](https://alfredldong.github.io/MyArticle/usapresident.html)
 
+[56种性别划分](https://alfredldong.github.io/MyArticle/Gender56.html)
+
 [女性的受虐倾向](https://alfredldong.github.io/MyArticle/FemaleMasochism.html)
 
 [为什么佛学是对的](https://alfredldong.github.io/MyArticle/BuddhismIsTrue.html)
