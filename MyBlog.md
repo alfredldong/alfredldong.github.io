@@ -21,3 +21,5 @@
 ## Humanity
 
 [李吟经典语录大集合](https://alfredldong.github.io/MyArticle/LiYinQuote.html)
+
+[笔杆子常用的词汇大汇总](https://alfredldong.github.io/MyArticle/ChineseOffice.html)
