@@ -16,17 +16,12 @@ Lecturer, School of Science, Jiangsu University of Science and Technology (JUST)
 
 ## Research Interests
 
-Phonon Transport of Perovskites 
-
 Quantum Many Body Theory and Machine Learning
 
 ## Education Background
 
-2016.09-2020.08
+2015.09-2020.08
 >**PhD**, major of condensed matter physics, School of Physics, HUST, Wuhan
-
-2015.09-2016.06
->**master**, major of optics, School of Physics, HUST, Wuhan
 
 2008.09-2012.06 
 >**bachelor**, major of physics, College of Physics, Hebei Normal University, Shijiazhuang
@@ -40,10 +35,10 @@ Programing
 >Mathematica、MATLAB、Python、Julia
 
 Algorithm
->first principles, molecular dynamics, Monte Carlo, machine learning, etc
+>first principles, molecular dynamics, Monte Carlo, machine learning, finite difference method etc
 
 Software
->CASTEP, VASP, LAMMPS, COMSOL
+>CASTEP, VASP, LAMMPS, COMSOL, VS Code, VIM, Office, LaTeX, Markdown
 
 ## Contact Information
 
