@@ -8,7 +8,9 @@
     </p>
 </p>
 
-## [Professional Blogs](ProfessionalBlog.md)[Amateur Blogs](AmateurBlog.md)
+## [Professional Blogs](ProfessionalBlog.md)
+
+## [Amateur Blogs](AmateurBlog.md)
 
 ## About me
 
