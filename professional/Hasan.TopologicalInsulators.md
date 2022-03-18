@@ -1,3 +1,5 @@
+<script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"> </script>
+
 # 拓扑绝缘体 (Hasan.RMP.2010)
 
 (https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.82.3045)[TOC]
@@ -56,7 +58,7 @@ $$
 
 一个二维能带结构其实是由一个映射组成, 即从晶体的动量$k$ (定义在一个环上) 映射到布洛赫哈密顿量 $\mathcal{H}(\boldsymbol{k})$。有带隙的能带结构都能在拓扑性质上被分类, 分类方法即是: 如果一个能带结构能通过不闭合带隙 (即能带不相互交叉, 或不增加交叉的数量) 的条件下, 连续地变换到另一个能带结构, 则可以把这两个能带结构对应的布洛赫哈密顿量$\mathcal{H}(\boldsymbol{k})$视为一个等价类 (关于等价类知乎上的回答已经足以解释此部分的需要, 可自行搜索)。这些等价类可以通过一个拓扑不变量 $n\in \mathbb{Z}$来区分, 这个拓扑不变量称为陈不变量 (Chern invariant)。也就是说, 如果两个能带能够相互连续变换, 且不闭合能带, 他们就有着相同的陈不变量。
 
-陈不变量是源于数学中的纤维从 (fiber bundle) 理论, 但我们可以从物理上来理解它, 其切入口就是和布洛赫波函数${|u_m(\boldsymbol{k})\rangle}$密切相关的贝里相位 (Berry phase)。考虑没有偶然简并的情况, 贝里相位可以通过对$\mathcal{A}_m=i{\langle u_m(\boldsymbol{k})|}\nabla_\boldsymbol{k}{|u_m(\boldsymbol{k})\rangle}$在k空间的闭合环路积分得到。贝里曲率也可以表示为贝里通量 (Berry flux) $\mathcal{F}_m=\nabla\times \mathcal{A}_m$的表面积分。而陈不变量就是贝里流通量整个布里渊区的总和。即陈不变量可以表示为
+陈不变量是源于数学中的纤维从 (fiber bundle) 理论, 但我们可以从物理上来理解它, 其切入口就是和布洛赫波函数${|u_m(\boldsymbol{k})\rangle}$密切相关的贝里相位 (Berry phase)。考虑没有偶然简并的情况, 贝里相位可以通过对$\mathcal{A}_m=i\langle u_m(\boldsymbol{k})|\nabla_{\boldsymbol{k}}|u_m(\boldsymbol{k})\rangle$在$k$空间的闭合环路积分得到。贝里曲率也可以表示为贝里通量 (Berry flux) $\mathcal{F}_m=\nabla\times \mathcal{A}_m$的表面积分。而陈不变量就是贝里流通量整个布里渊区的总和。即陈不变量可以表示为
 
 $$
 n_m=\frac{1}{2\pi}\int d^2 \boldsymbol{k}\mathcal{F}_m
