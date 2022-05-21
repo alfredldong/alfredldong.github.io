@@ -20,6 +20,8 @@
 
 [“天坑专业”高强度劳动的马克思主义解读](https://alfredldong.github.io/amateur/tiankengmajormarxism.html)
 
+[如何成为一名流浪汉](https://alfredldong.github.io/amateur/homeless.html)
+
 ## Humanity
 
 [《三十而已》王漫妮剧评](https://alfredldong.github.io/amateur/OnlyThirty.html)
