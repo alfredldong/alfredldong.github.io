@@ -10,6 +10,8 @@
 
 [56种性别划分](https://alfredldong.github.io/amateur/Gender56.html)
 
+[爱因斯坦：论教育](https://alfredldong.github.io/amateur/EinsteinEducation.html)
+
 [女性的受虐倾向](https://alfredldong.github.io/amateur/FemaleMasochism.html)
 
 [为什么佛学是对的](https://alfredldong.github.io/amateur/BuddhismIsTrue.html)
