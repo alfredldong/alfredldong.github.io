@@ -6,6 +6,8 @@
 
 ## Society
 
+[英美人道德观](https://alfredldong.github.io/amateur/USAMoral.md)
+
 [美国总统谥号](https://alfredldong.github.io/amateur/usapresident.html)
 
 [56种性别划分](https://alfredldong.github.io/amateur/Gender56.html)
