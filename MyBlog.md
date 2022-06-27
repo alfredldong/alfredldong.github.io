@@ -6,7 +6,7 @@
 
 ## Society
 
-[英美人道德观](https://alfredldong.github.io/amateur/USAMoral.md)
+[英美人道德观](https://alfredldong.github.io/amateur/AngloMoral.md)
 
 [美国总统谥号](https://alfredldong.github.io/amateur/usapresident.html)
 
