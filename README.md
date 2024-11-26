@@ -27,7 +27,7 @@ Quantum Many Body Theory and Machine Learning
 >**bachelor**, major of physics, College of Physics, Hebei Normal University, Shijiazhuang
 
 **Major Courses**
->solid state theory
+>Solid state theory
 
 ## Skills
 
@@ -35,7 +35,7 @@ Programing
 >Mathematica、MATLAB、Python、Julia
 
 Algorithm
->first principles, molecular dynamics, Monte Carlo, machine learning, finite difference method etc
+>First principles, machine learning, exact diagonalization etc
 
 Software
 >CASTEP, VASP, LAMMPS, COMSOL, VS Code, VIM, Office, LaTeX, Markdown
@@ -44,7 +44,7 @@ Software
 
 Email: dongliyuan@just.edu.cn, a.l.dong@qq.com
 
-Phone: 15927120901
+Phone: 15162981625
 
 Address: Room 854, School of Science, JUST, 666 Changhui Road, Zhenjiang 212100, China
 
