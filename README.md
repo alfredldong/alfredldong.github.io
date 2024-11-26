@@ -32,7 +32,7 @@ Quantum Many Body Theory and Machine Learning
 ## Skills
 
 Programing
->Mathematica、MATLAB、Python、Julia
+>Python、Mathematica、MATLAB、Julia
 
 Algorithm
 >First principles, machine learning, exact diagonalization etc
